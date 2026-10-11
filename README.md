@@ -39,4 +39,4 @@ No environment variables or build configuration required.
 
 ## After deploying
 
-Update the production URL in `index.html` (`canonical`, `og:url`), `robots.txt`, and `sitemap.xml` if your domain differs from `dharshan-portfolio.vercel.app`.
+Update the production URL in `index.html` (`canonical`, `og:url`), `robots.txt`, and `sitemap.xml` if your domain differs from `dharshanvportfolio.vercel.app`.
